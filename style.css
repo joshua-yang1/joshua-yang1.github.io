@@ -7,7 +7,7 @@
 }
 
 html {
-    font-size: 20px;
+    font-size: 18px;
     margin-top: 3em;
 }
 
@@ -67,7 +67,7 @@ body {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: auto;
-    grid-column-gap: 1.5em;
+    grid-column-gap: .5em;
 }
 
 #projects article {
@@ -84,6 +84,7 @@ body {
 #projects article p {
     font-size: .7em;
     color: #fff;
+    padding: .8em .8em;
 }
 
 #contactMe ul{
