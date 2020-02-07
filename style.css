@@ -26,6 +26,14 @@ header {
     text-align: center;
 }
 
+header img {
+    border-radius: 25px;
+    border-color: #555;
+    border-style: ridge;
+    width: 90%;
+    max-width: 250px;
+}
+
 header span {
     font-size: .7em;
 }
@@ -85,6 +93,15 @@ body {
     font-size: .7em;
     color: #fff;
     padding: .8em .8em;
+}
+
+#projects article a {
+    color: red;
+    text-decoration: none;
+}
+
+#projects article a:hover {
+    color: lightcoral;
 }
 
 #projects article img {
