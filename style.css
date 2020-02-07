@@ -21,7 +21,7 @@ html {
 
 main, footer {
     margin: 0 auto;
-    max-width: 750px;
+    max-width: 800px;
 }
 
 h1 {
@@ -103,7 +103,7 @@ section > p {
 }
 
 #projects article p {
-    font-size: .7em;
+    font-size: .8em;
     color: #fff;
     padding: .8em .8em;
 }
