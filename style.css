@@ -44,6 +44,17 @@ section > p {
     margin: 1em 0;
 }
 
+#skills {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: .5em;
+    list-style-type: square;
+}
+
+#skills li {
+    font-size: .8em;
+}
+
 body {
     background-image: url("images/background.jpg");
     background-repeat: no-repeat;
@@ -73,6 +84,10 @@ body {
 #projects article p {
     font-size: .7em;
     color: #fff;
+}
+
+#contactMe ul{
+    list-style: none;
 }
 
 nav {

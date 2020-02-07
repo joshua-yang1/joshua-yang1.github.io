@@ -17,35 +17,20 @@
     <main>
         <section id="aboutMe">
             <h2>About Me</h2>
+            <h3>"Hey so what's your deal"</h3>
             <p>
-                My name is Josh Yang, and I'm currently enrolled at WeCanCodeIT, a five-star full stack web developer course. I have a passion for just about anything that challenges the mind, and I hope to be a developer someday.
+                My name is Josh Yang, in case you skimmed the header or forgot. I'm currently enrolled at WeCanCodeIT, a five-star full stack web developer course. I have a passion for just about anything that challenges the mind, and I hope to be a developer someday.
             </p>
-            <h2>Skills and Experience</h2>
+            <h3>"Okay, are you good at anything"</h3>
             <p>
-                I'm currently learning Object-Oriented Programming in C# and HTML5/CSS for front-end web design. By the end of the course, I will be proficient in the following:
-                <ul id="skills">
-                    <li>C#</li>
-                    <li>.NET Core</li>
-                    <li>Active Servwer Pages / ASP.net</li>
-                    <li>JavaScript</li>
-                    <li>Flexbox</li>
-                    <li>MVC</li>
-                    <li>HTML</li>
-                    <li>CSS</li>
-                    <li>Grid</li>
-                    <li>TDD</li>
-                    <li>Agile (Scrum)</li>
-                    <li>Object Oriented Programming (OOP)</li>
-                    <li>AJAX</li>
-                    <li>JSON</li>
-                    <li>React</li>
-                    <li>Restful APIs</li>
-                    <li>Responsive Design / Mobile</li>
-                    <li>Structured Query Language (SQL)</li>
-                    <li>Relational Databases / MS SQL</li>
-                    <li>Source Control / GitHub</li>
-                </ul>
+                Glad you asked! No. I'm working on it though. I'm currently learning Object-Oriented Programming in C# and HTML5/CSS for front-end web design.
             </p>
+            <p>
+                By the end of the course, I will be proficient in C# .NET Core Active Server Pages / ASP.net, JavaScript, Flexbox, MVC, HTML, CSS, Grid, TDD, Agile (Scrum), Object Oriented Programming (OOP), AJAX, JSON, React, Restful APIs, Responsive Design / Mobile, Structured Query Language (SQL), Relational Databases / MS SQL, and Source Control / GitHub.</p>
+            </p>
+            <h3>"I mean that's mildly unimpressive, but are you cute at least"</h3>
+            <p>Yeah! I clean up nice. Here's a selfie.</p>
+            <img src="selfie" alt="">
         </section>
 
         <section id="myProjects">
