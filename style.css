@@ -17,7 +17,7 @@ header, main, footer {
 }
 
 header {
-    background-color: white;
+    background-color: rgba(255, 255, 255, .7);
     border-radius: 25px;
     border-style: ridge;
     border-color: #555;
@@ -115,7 +115,8 @@ body {
 }
 
 #contactMe ul{
-    list-style: none;
+    list-style-type: square;
+    margin-left: 1.5em;
 }
 
 nav {
