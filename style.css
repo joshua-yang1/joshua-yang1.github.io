@@ -11,7 +11,7 @@ body {
     background-repeat: no-repeat;
     background-position: bottom left;
     background-attachment: fixed;
-    background-size: cover;
+    background-size: center;
 }
 
 html {
@@ -40,7 +40,7 @@ header {
     text-align: center;
 }
 
-header, header img, section {
+header img {
     border-radius: 25px;
     border-style: solid;
     border-color: #9F84BD;
@@ -86,6 +86,8 @@ section > p {
     background: rgba(43, 45, 66, .8);
     border-radius: 25px;
     border-style: solid;
+    border-color: #9F84BD;
+
 }
 
 #projects article h3 {
