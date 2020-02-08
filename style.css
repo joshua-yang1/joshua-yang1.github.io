@@ -51,10 +51,6 @@ header img {
     max-width: 250px;
 }
 
-header span {
-    font-size: .8em;
-}
-
 section {
     background-color: rgba(192, 155, 216, .8);
     margin: 4em 0;
